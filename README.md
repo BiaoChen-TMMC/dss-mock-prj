@@ -19,32 +19,40 @@ Github cheatsheet: https://training.github.com/downloads/github-git-cheat-sheet.
 Brief commands:
 
 0) configure tooling
+
 git config
 
 1.1) initialize a project
-git init <prj name>
+
+  git init <prj name>
 
 1.2) branch from an existing project
-git branch <prj>
+
+  git branch <prj>
 
 2) pull from github
-git pull
+
+  git pull
 
 3) add changes to a commit
-git add
+
+  git add
 
 4) download from remote
-git fetch
+
+  git fetch
 
 5) commit changes
-git commit -m "<comment>"
+
+  git commit -m "<comment>"
 
 6) other commands
-git status
-git show
-git log
-git diff
-git reset
-git merge
-git clone
-git remote add origin <prj>
+
+  git status
+  git show
+  git log
+  git diff
+  git reset
+  git merge
+  git clone
+  git remote add origin <prj>
