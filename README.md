@@ -1,5 +1,8 @@
 This is a mock project to practise github for DSS team members
 
+Project URL: https://github.com/tmmc-is/dss-mock-prj.git
+Bill's branch URL: https://github.com/BiaoChen-TMMC/dss-mock-prj.git
+
 # modified on Mar01, 2022 by Bill
 please feel free to change anything in this project, but please be sure the follow standard git guidelines, and do NOT upload sensetive data.
 
