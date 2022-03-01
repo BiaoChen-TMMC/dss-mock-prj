@@ -49,10 +49,17 @@ git config
 6) other commands
 
   git status
+  
   git show
+  
   git log
+  
   git diff
+  
   git reset
+  
   git merge
+  
   git clone
+  
   git remote add origin <prj>
