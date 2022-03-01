@@ -1,7 +1,10 @@
 This is a mock project to practise github for DSS team members
 
-please feel free to change anything in this project, but please be sure the follow standard git guidelines.
+# modified on Mar01, 2022 by Bill
+please feel free to change anything in this project, but please be sure the follow standard git guidelines, and do NOT upload sensetive data.
+
 Github Docs: https://docs.github.com/en/get-started/quickstart/hello-world
+
 Github cheatsheet: https://training.github.com/downloads/github-git-cheat-sheet.pdf
 
 ##############################
