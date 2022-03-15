@@ -1,4 +1,4 @@
-#This is a mock project to practise github for DSS team members
+#This is a mock project to practise github for DSS team members#
 ![github](https://southworks.gallerycdn.vsassets.io/extensions/southworks/github-pr-comment/0.1.2/1597176672547/Microsoft.VisualStudio.Services.Icons.Default)
 
 > [Project URL](https://github.com/tmmc-is/dss-mock-prj.git)
@@ -18,9 +18,10 @@ please feel free to change anything in this project, but please be sure the foll
 
 > [Github cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-![example workflow](https://github.com/tmmc-is/dss-mock-prj/actions/workflows/docker-image.yml/badge.svg)
+##Workflow status##
+![Docker Image CI](https://github.com/tmmc-is/dss-mock-prj/actions/workflows/docker-image.yml/badge.svg)
 
-##Brief commands:
+##Brief commands:##
 
 1. configure
 `git config`
