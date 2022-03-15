@@ -18,6 +18,8 @@ please feel free to change anything in this project, but please be sure the foll
 
 > [Github cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
+![example workflow](https://github.com/tmmc-is/dss-mock-prj/actions/workflows/docker-image.yml/badge.svg)
+
 ##Brief commands:
 
 1. configure
