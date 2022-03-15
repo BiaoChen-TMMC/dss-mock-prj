@@ -1,65 +1,61 @@
-This is a mock project to practise github for DSS team members
+#This is a mock project to practise github for DSS team members
+![github](https://southworks.gallerycdn.vsassets.io/extensions/southworks/github-pr-comment/0.1.2/1597176672547/Microsoft.VisualStudio.Services.Icons.Default)
 
-Project URL: https://github.com/tmmc-is/dss-mock-prj.git
-Bill's branch URL: https://github.com/BiaoChen-TMMC/dss-mock-prj.git
+> [Project URL](https://github.com/tmmc-is/dss-mock-prj.git)
 
-# modified on Mar01, 2022 by Bill
-please feel free to change anything in this project, but please be sure the follow standard git guidelines, and do NOT upload sensetive data.
+> [Bill's branch URL](https://github.com/BiaoChen-TMMC/dss-mock-prj.git)
 
-Github Docs: https://docs.github.com/en/get-started/quickstart/hello-world
+***modified on Mar15, 2022 by Bill***
 
-Github cheatsheet: https://training.github.com/downloads/github-git-cheat-sheet.pdf
+ * following Markdown syntax for README.md
 
-##############################
-# initial date: Mar 01, 2022 #
-#
-#
-##############################
+***initial date: Mar 01, 2022***
 
-Brief commands:
 
-0) configure tooling
+please feel free to change anything in this project, but please be sure the follow standard git guidelines, and **do NOT** upload sensetive data.
 
-git config
+> [Github Docs](https://docs.github.com/en/get-started/quickstart/hello-world)
 
-1.1) initialize a project
+> [Github cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-  git init <prj name>
+##Brief commands:
 
-1.2) branch from an existing project
+1. configure
+`git config`
 
+2. start
+ - initialize a project
+`
+  git init <prj>
+`
+ - branch from an existing project
+`
   git branch <prj>
-
-2) pull from github
-
+`
+3. pull from github
+`
   git pull
-
-3) add changes to a commit
-
+`
+4. add changes to a commit
+`
   git add
-
-4) download from remote
-
+`
+5. download from remote
+`
   git fetch
-
-5) commit changes
-
+`
+6. commit changes
+`
   git commit -m "<comment>"
+`
+7. other commands
+  - git status
+  - git show
+  - git log
+  - git diff
+  - git reset
+  - git merge
+  - git clone
+  - git remote add origin <prj>
 
-6) other commands
 
-  git status
-  
-  git show
-  
-  git log
-  
-  git diff
-  
-  git reset
-  
-  git merge
-  
-  git clone
-  
-  git remote add origin <prj>
